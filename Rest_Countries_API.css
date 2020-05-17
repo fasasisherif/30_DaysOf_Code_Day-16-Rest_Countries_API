@@ -1,0 +1,43 @@
+body{
+		padding:0;
+		margin:0;
+		font-size:10px;
+		font-family:"Baloo Da 2";
+		}
+.for_table{
+		widt:80%;
+		}
+tr{
+		border:2px solid black;
+		height:max-height;
+		}
+.head,.data{
+		display:flex;
+		background-color:lightblue;
+		padding:0px;
+		}
+.head{
+		width:115%;
+		}
+.data{
+		width:115%;
+		}
+.data{
+		magin:15px;
+		}
+.head > div {
+		width:25%;
+		overflow:auto;
+		background-color:lightblue;
+		padding:5px;
+		}	
+button{
+		display:block;
+		margin:auto;
+		background-color:lightblue;
+		}
+img{
+		background-color:green;
+		width:30%;
+		}		
+		
